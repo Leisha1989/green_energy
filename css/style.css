@@ -3,6 +3,7 @@ html,
 body,
 .view {
   height: 100%;
+  font-family: Roboto, sans-serif;
 }
 
 /* Full Page Carousel itself*/
