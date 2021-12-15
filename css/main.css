@@ -19,6 +19,13 @@ a:hover {
   text-decoration: none;
 }
 
+#products,
+#services,
+#projects,
+#about-us {
+  scroll-margin-top: 80px;
+}
+
 /*---------------------------------------------*/
 h1,
 h2,
@@ -40,7 +47,6 @@ p {
 ul,
 li {
   margin: 0px;
-  list-style-type: none;
 }
 
 /*---------------------------------------------*/
